@@ -1,3 +1,35 @@
 body {
-    background-color: #def;
+    background-color: #ff9933;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #bb0055;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h2 {
+    color: #bb2200;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.main {
+    background-color: #ffeedd;
+    padding: 20px;
+    border: 3px solid #bb0055;
+    border-radius: 15px;
+    margin: 40px;
+}
+
+.image-section {
+    background-color: #662244;
+    width: 600px;
+    border: 9px solid #ff9933;
+    margin: 0 auto;
+}
+
+img {
+    display: block;
+    margin: 0 auto;
 }
